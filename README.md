@@ -1,3 +1,2 @@
 # pythonlearning
-my python programs, games , puzzles
-In this, I'll add my various python programs accordingly 
+In this, I will add my various python programs accordingly 
